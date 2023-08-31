@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am passionate about creating something that make
 
 To get to know me more, you can connect with me at my socials:
 
-### Socials
+Socials
                   
                   
 <p align="left">
@@ -44,6 +44,7 @@ To get to know me more, you can connect with me at my socials:
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
                     </picture>
                     </a></p>
+
                     
 Feel free to reach out if you'd like to collaborate, chat, or connect. Looking forward to connecting with you!
 

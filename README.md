@@ -1,16 +1,17 @@
-### Hi there, I'm Jessebel👋
+# Hi there, I am Jessebel 👋
 
-<!--
-**jisibil/jisibil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
+I am passionate about creating something that make sense and eager to explore new things that may improve my skills.
 
-Here are some ideas to get you started:
+To get to know me more, you can connect with me at my socials: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SOCIALS
+
+FB: https://www.facebook.com/jessebel.belchesbatan
+TWITTER: https://twitter.com/jisibil
+IG: https://www.instagram.com/_jisibil/
+LinkedIn: https://www.linkedin.com/in/jessebel-batan-6b19b3207/
+
+Feel free to reach out if you'd like to collaborate, chat, or connect. Looking forward to connecting with you!
+
+Thank you! 😄

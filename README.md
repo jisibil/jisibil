@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I am passionate about creating something that make
 To get to know me more, you can connect with me at my socials:
 
 ### Socials
-=========================
                   
                   
 <p align="left">

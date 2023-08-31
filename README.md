@@ -1,15 +1,15 @@
 Hi 👋 My name is Jessebel
 =========================
 
-Welcome to my GitHub profile! I am passionate about creating something that make sense and eager to explore new things that may improve my skills. T
+Welcome to my GitHub profile! I am passionate about creating something that make sense and eager to explore new things that may improve my skills.
 
-o get to know me more, you can connect with me at my socials:
+To get to know me more, you can connect with me at my socials:
 
 ### Socials
 =========================
                   
                   
-                <p align="left">
+<p align="left">
                       <a href="https://www.facebook.com/jessebel.belchesbatan" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />

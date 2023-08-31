@@ -6,7 +6,7 @@ I am passionate about creating something that make sense and eager to explore ne
 
 To get to know me more, you can connect with me at my socials:
 
-## SOCIALS
+### SOCIALS
 =========================
                   
                   
